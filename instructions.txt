@@ -1,0 +1,4 @@
+download the project
+add node modules
+start by command npm start
+open in link localhost:3000
